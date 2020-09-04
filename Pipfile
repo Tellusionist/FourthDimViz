@@ -7,8 +7,10 @@ verify_ssl = true
 pygame = "*"
 pytest = "*"
 pylint = "*"
+pyopengl = "*"
 
 [packages]
+numpy = "*"
 
 [requires]
 python_version = "3.8"
